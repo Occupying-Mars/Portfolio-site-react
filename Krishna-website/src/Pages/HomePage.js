@@ -20,10 +20,10 @@ function HomePage() {
                     Btw I made this site in a hurry so dont judge...
                 </p>
                 <div className="icons">
-                    <a href="https://codepen.io/pen/" className="icon i-facebook">
+                    <a href="https://twitter.com/OccupyingM" className="icon i-facebook">
                         <TwitterIcon />
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-github">
+                    <a href="https://github.com/Occupyig-Mars" className="icon i-github">
                         <GithubIcon />
                     </a>
                 </div>
